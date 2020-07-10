@@ -1,0 +1,17 @@
+{
+  "name": "simple-genius-lyrics",
+  "version": "1.0.0",
+  "description": "Simple Genius Lyrics API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Genius Lyrics API", "Lyrics API"],
+  "author": "Bolimha1234",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "genius-lyrics": "^3.0.0",
+    "helmet": "^3.23.3"
+  }
+}
